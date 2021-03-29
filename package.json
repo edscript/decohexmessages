@@ -1,0 +1,17 @@
+{
+  "name": "decohexmessages",
+  "version": "0.1.0",
+  "description": "Npm module that creates custom and personalized messages with decorators through a json file.",
+  "keywords": [
+    "logger",
+    "messages",
+    "custom messages",
+    "message decorators",
+    "custom print"
+  ],
+  "author": "edscript",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}

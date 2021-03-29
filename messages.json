@@ -1,0 +1,50 @@
+{
+  "error": {
+    "decorator": {
+      "decoratorType": "curly",
+      "decoratorTypeColor": "#f17",
+      "decoratorTypeText": "error",
+      "decoratorTypeForeground": "#fff"
+    },
+    "content": {
+      "contentForegroundColor": "#fff",
+      "contentBackgroundColor": "#000"
+    }
+  },
+  "information": {
+    "decorator": {
+      "decoratorType": "curly",
+      "decoratorTypeColor": "#d0df02",
+      "decoratorTypeText": "warning",
+      "decoratorTypeForeground": "#fff"
+    },
+    "content": {
+      "contentForegroundColor": "#fff",
+      "contentBackgroundColor": "#000"
+    }
+  },
+  "warning": {
+    "decorator": {
+      "decoratorType": "curly",
+      "decoratorTypeColor": "#ffa314",
+      "decoratorTypeText": "warning",
+      "decoratorTypeForeground": "#fff"
+    },
+    "content": {
+      "contentForegroundColor": "#fff",
+      "contentBackgroundColor": "#000"
+    }
+  },
+  "success": {
+    "decorator": {
+      "decoratorType": "curly",
+      "decoratorTypeColor": "#06d6a0",
+      "decoratorTypeText": "success",
+      "decoratorTypeForeground": "#fff"
+    },
+    "content": {
+      "contentForegroundColor": "#fff",
+      "contentBackgroundColor": "#000"
+    }
+  }
+}
