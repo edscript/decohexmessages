@@ -15,7 +15,7 @@
     "decorator": {
       "decoratorType": "curly",
       "decoratorTypeColor": "#d0df02",
-      "decoratorTypeText": "warning",
+      "decoratorTypeText": "information",
       "decoratorTypeForeground": "#fff"
     },
     "content": {
