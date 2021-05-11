@@ -1,50 +1,50 @@
 {
-  "error": {
+  "success": {
     "decorator": {
-      "decoratorType": "curly",
-      "decoratorTypeColor": "#f17",
-      "decoratorTypeText": "error",
-      "decoratorTypeForeground": "#fff"
+      "type": "curly",
+      "text": "success",
+      "color": "#06d6a0",
+      "foreground": "#fff"
     },
     "content": {
-      "contentForegroundColor": "#fff",
-      "contentBackgroundColor": "#000"
+      "background": "#fff",
+      "foreground": "#asd2"
+    }
+  },
+  "error": {
+    "decorator": {
+      "type": "curly",
+      "text": "error",
+      "color": "#f17",
+      "foreground": "#fff"
+    },
+    "content": {
+      "background": "#000",
+      "foreground": "#fff"
     }
   },
   "information": {
     "decorator": {
-      "decoratorType": "curly",
-      "decoratorTypeColor": "#d0df02",
-      "decoratorTypeText": "information",
-      "decoratorTypeForeground": "#fff"
+      "type": "curly",
+      "text": "information",
+      "color": "#d0df02",
+      "foreground": "#fff"
     },
     "content": {
-      "contentForegroundColor": "#fff",
-      "contentBackgroundColor": "#000"
+      "background": "#8B0E5D",
+      "foreground": "#FFB6C1"
     }
   },
   "warning": {
     "decorator": {
-      "decoratorType": "curly",
-      "decoratorTypeColor": "#ffa314",
-      "decoratorTypeText": "warning",
-      "decoratorTypeForeground": "#fff"
+      "type": "curly",
+      "text": "warning",
+      "color": "#ffa314",
+      "foreground": "#fff"
     },
     "content": {
-      "contentForegroundColor": "#fff",
-      "contentBackgroundColor": "#000"
-    }
-  },
-  "success": {
-    "decorator": {
-      "decoratorType": "curly",
-      "decoratorTypeColor": "#06d6a0",
-      "decoratorTypeText": "success",
-      "decoratorTypeForeground": "#fff"
-    },
-    "content": {
-      "contentForegroundColor": "#fff",
-      "contentBackgroundColor": "#000"
+      "background": "#334045",
+      "foreground": "#fff"
     }
   }
 }
