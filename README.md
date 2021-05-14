@@ -47,9 +47,9 @@ Create a `example.json` with this **example** options
 Create an _example.js_ file to see the simplicity of this package
 
 ```js
-const decohex = require('decohexmessages');
+const { decohexbuilder } = require('decohexmessages');
 
-const { exampleMessage } = decohex('./example.json');
+const { exampleMessage } = decohexbuilder('./example.json');
 exampleMessage.print('My first time using this awesome package');
 ```
 
