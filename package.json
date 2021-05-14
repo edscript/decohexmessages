@@ -15,13 +15,20 @@
     "chalk": "4.1.1"
   },
   "scripts": {
-    "semantic-release": "semantic-release --branches main"
+    "semantic-release": "semantic-release --branches main",
+    "commit": "git cz"
   },
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^17.4.3"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/edscript/decohexmessages.git"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
