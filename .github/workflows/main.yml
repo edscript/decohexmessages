@@ -21,6 +21,6 @@ jobs:
       - name: 🧪 test        
         run: npm test
       - name: 🚀 publish
-        run: npm publish --access public
+        run: npm publish
         env:
             token: ${{ secrets.NPM_AUTH_TOKEN }}
